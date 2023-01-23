@@ -1,3 +1,4 @@
 sample	status	group
 atacseq-peaks-workbench-01	ready	control
 atacseq-peaks-workbench-02	review	case
+atacseq-peaks-workbench-03	queued	validation
